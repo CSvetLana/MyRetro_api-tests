@@ -1,5 +1,4 @@
 import {test, expect} from "@playwright/test";
-let templateId: number;
 
 test.describe.parallel("Other API endpoints testing", () => {
 
